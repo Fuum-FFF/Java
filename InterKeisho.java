@@ -19,5 +19,6 @@ class InterKeisho{
     public static void main(String[] args){
         MyClass mc = new MyClass();
         mc.foo();
+        mc.bar();
     }
 }
